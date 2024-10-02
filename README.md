@@ -6,7 +6,7 @@ This is a Kanban Board Application built with React. It allows users to organize
 
 The application is hosted on Netlify. You can try it out by visiting:
 
-[Kanban Board Application](https://kanban-board-assgn.netlify.app/)
+[Kanban Board Application](https://quick-sell-assignment-flame.vercel.app/)
 
 ### Features
 
