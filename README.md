@@ -29,4 +29,4 @@ Follow the instructions below to get a copy of the project running on your local
 1. Clone the repository to your local machine:
 
    ```bash
-   
+   https://github.com/prernamadhyan16/QuickSell_Assignment.git
